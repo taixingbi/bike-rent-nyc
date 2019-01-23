@@ -1,0 +1,4 @@
+ssh -i "new-season.pem" 206.189.187.26
+
+path /root
+/var/www/tix.bikerent.nyc
